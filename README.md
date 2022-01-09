@@ -10,7 +10,7 @@ Very simple discord bot created only for my Golang practise. I will use it to tr
 
 ## Usage 
 
-Create config.json 
+Create config.json in main directory
 ```
 {
   "token": "yOuR_t0K3n_H3rE",
